@@ -1,0 +1,19 @@
+{
+  "name": "react-ab7-image",
+  "version": "1.0.0",
+  "description": "Add awesome image shadows",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AB7zz/Shadowizard.git"
+  },
+  "author": "AB7",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AB7zz/Shadowizard/issues"
+  },
+  "homepage": "https://github.com/AB7zz/Shadowizard#readme"
+}
