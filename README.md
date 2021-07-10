@@ -4,12 +4,12 @@ Get the perfect shdows every time
 
 # Installation
 
-'npm i shadowizard --save'
+'npm i react-ab7-image --save'
 
 Then...
 
 ```
-import {shadowizard} from 'shadowizard';
+import {shadowizard} from 'react-ab7-image';
 
 shadowizard({
     shadow_type: 'soft',
