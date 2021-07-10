@@ -21,3 +21,11 @@ Shadowizard supports 2 options, both of which are optional:
 
 * *shadow_type* - _hard | soft_ (Defaults to soft)
 * *padding* - _boolean_ (Defaults to false)
+
+# Drawbacks
+* *className='shadowizard'* won't work if you're using styled-components to style your <img> tag. For example
+
+```
+export const Img = styled.img``
+<Img src={src} alt={alt} />
+```
