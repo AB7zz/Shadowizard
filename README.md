@@ -29,3 +29,5 @@ Shadowizard supports 2 options, both of which are optional:
 export const Img = styled.img``
 <Img src={src} alt={alt} />
 ```
+
+# Project isn't complete yet! More change to come very soon
